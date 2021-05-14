@@ -1,3 +1,8 @@
+'''
+Again a simplified class, this just returns a string of the amount
+of payment due.
+'''
+
 class Payment():
     def __init__(self, paymentamount):
         self.paymentamount=paymentamount

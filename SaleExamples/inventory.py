@@ -1,3 +1,11 @@
+'''
+The Inventory class consists of a list of item objects.
+The Item class is imported
+Inventory contains methods for adding an item,
+getting the whole item list, and getting an item
+by item number.
+'''
+
 from item import Item
 
 class Inventory():

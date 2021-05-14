@@ -1,3 +1,9 @@
+'''
+This class processes the order. It contains a list of 
+orderitem objects. It is quite simplified. I did not calculate
+tax or any discounts.
+'''
+
 from item import Item
 from orderitem import OrderItem
 from payment import Payment

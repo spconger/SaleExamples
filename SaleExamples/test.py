@@ -1,3 +1,10 @@
+'''
+This class tests the methods of the classes
+in this sales example. The setUp method provides
+an instance of the class and values to test
+against.
+'''
+
 import unittest
 from item import Item
 from inventory import Inventory
